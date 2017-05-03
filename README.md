@@ -4,3 +4,5 @@ Possibly the greatest beginner GIT tutorial in the history of the Universe.
 =======
 Tutorial repository for Learn Enough
 Just a tutorial repository
+
+For more information on Git, see the [official Git documentation] (https://git-scm.com/).
